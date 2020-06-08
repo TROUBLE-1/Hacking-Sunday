@@ -1,5 +1,9 @@
 <?php 
 
+$directoryName = 'user_data';
+if(!is_dir($directoryName)){
+    mkdir($directoryName, 0777);
+}
 
 include('session.php'); 
 $bio = $_SESSION['bio'];
