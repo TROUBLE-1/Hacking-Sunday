@@ -16,7 +16,7 @@ I have uploaded a video in the directory.
 * Youtube: https://www.youtube.com/watch?v=ud08YXRUgdY
 
 
-*Hacking Sunday ep 1*
+*Hacking Sunday ep 2*
 =====================
 
 **Topics**
