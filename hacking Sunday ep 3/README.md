@@ -8,6 +8,7 @@
 **Installation**
 
 Watch the video
+https://github.com/TROUBLE-1/Hacking-Sunday/blob/master/hacking%20Sunday%20ep%203/lab_installation.mp4
 
 ***Create Mysql user***
 ```
