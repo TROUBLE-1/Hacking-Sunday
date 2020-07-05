@@ -1,6 +1,6 @@
 <?php 
 require_once('jwt.php');
-require_once('DbConnect.php');
+require_once('dbconnect.php');
 require_once('constants.php');
 
 class tokenVerify {
