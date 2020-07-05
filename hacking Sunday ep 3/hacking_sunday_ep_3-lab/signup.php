@@ -6,8 +6,8 @@ if(isset($_SESSION['jwt'])){
     
 
    define('DB_SERVER', 'localhost');
-   define('DB_USERNAME', 'root');
-   define('DB_PASSWORD', '');
+   define('DB_USERNAME', 'user');
+   define('DB_PASSWORD', 'password');
    define('DB_DATABASE', 'jwt');
    $db = mysqli_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
 
