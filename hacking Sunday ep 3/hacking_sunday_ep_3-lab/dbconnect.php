@@ -5,8 +5,8 @@
 	class DbConnect {
 		private $server = 'localhost';
 		private $dbname = 'jwt';
-		private $user = 'root';
-		private $pass = '';
+		private $user = 'user';
+		private $pass = 'password';
 
 		public function connect() {
 			try {
