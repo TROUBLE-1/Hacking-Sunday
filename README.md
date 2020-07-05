@@ -12,9 +12,6 @@
 
 I have uploaded a video in the directory.
 
-* Twitter: https://twitter.com/trouble1_raunak
-* Youtube: https://www.youtube.com/watch?v=ud08YXRUgdY
-
 
 *Hacking Sunday ep 2*
 =====================
@@ -30,3 +27,8 @@ I have uploaded a video in the directory.
 **Topics**
 
 1. JWT
+
+
+
+* Twitter: https://twitter.com/trouble1_raunak
+* Youtube: https://www.youtube.com/watch?v=ud08YXRUgdY
