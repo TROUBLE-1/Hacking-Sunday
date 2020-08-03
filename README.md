@@ -29,6 +29,16 @@ I have uploaded a video in the directory.
 1. JWT
 
 
+*Hacking Sunday ep 4*
+=====================
+
+**Topics**
+
+1. Type Juggling
+2. Host header Injection
+3. Sql injection => update query
+
+
 
 * Twitter: https://twitter.com/trouble1_raunak
 * Youtube: https://www.youtube.com/watch?v=ud08YXRUgdY
