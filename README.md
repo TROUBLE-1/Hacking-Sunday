@@ -38,6 +38,7 @@ I have uploaded a video in the directory.
 2. Host header Injection
 3. Sql injection => update query
 
+If you have previouly used my labs you should be able to install it on your system
 
 
 * Twitter: https://twitter.com/trouble1_raunak
